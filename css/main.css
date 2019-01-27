@@ -10594,8 +10594,7 @@ screen and (min-width:40em) {
 
 @font-face {
     font-family: foundation-icons;
-    src: url(/d584172686583fd510d8f04cf21e6e77fce51435/11da2/fonts/foundation-icons.eot);
-    src: url(/d584172686583fd510d8f04cf21e6e77fce51435/11da2/fonts/foundation-icons.eot#iefix) format("embedded-opentype"), url(/112fb0e498037f2fea036adb8105e47638159eaa/06985/fonts/foundation-icons.woff) format("woff"), url(/4b2bce6c792493a4a5716b6fec2dbefe89492c3f/1307a/fonts/foundation-icons.ttf) format("truetype"), url(/5cf9f3975e71956e2ab533107fe9eef262197578/370f4/fonts/foundation-icons.svg#fontcustom) format("svg");
+    src: url(/fonts/foundation-icons.woff) format("woff");
     font-weight: 400;
     font-style: normal
 }
@@ -12804,7 +12803,7 @@ button.hollow:hover {
 }
 
 .sticky .top-bar .logo {
-    background-image: url(/451e8e5a4bc1da74197078f9da5e3f7cc5a74106/4e6b2/images/affinipay-for-associations-logo-color.svg)
+    background-image: url(/images/affinipay-for-associations-logo-color.svg)
 }
 
 .sticky .top-bar .create-account {
@@ -13184,7 +13183,7 @@ screen and (min-width:64em) {
 }
 
 .top-bar .logo {
-    background-image: url(/451e8e5a4bc1da74197078f9da5e3f7cc5a74106/4e6b2/images/affinipay-for-associations-logo-color.svg);
+    background-image: url(/images/affinipay-for-associations-logo-color.svg);
     background-size: cover;
     float: left;
     height: 5rem;
