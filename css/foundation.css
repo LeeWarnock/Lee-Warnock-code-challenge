@@ -37,6 +37,7 @@
   -webkit-font-smoothing: antialiased;
   display: inline-block;
   text-decoration: inherit;
+  color: #fafafa;
 }
 
 .fi-social-facebook:before {
