@@ -13544,6 +13544,14 @@ screen and (min-width:64em) {
     color: #2056ba
 }
 
+.left-quotation-mark {
+    margin: 0 0.625rem 0 0;
+}
+
+.right-quotation-mark {
+    margin: 0 0 0 0.625rem;
+}
+
 .testimonial .author .cell.auto {
     margin-left: 1rem
 }
