@@ -12096,16 +12096,18 @@ screen and (min-width:40em) {
       clear: both; }
     .breadcrumbs li {
       float: left;
-      font-size: 0.6875rem;
+      font-size: 1rem;
       color: #0a0a0a;
       cursor: default;
-      text-transform: uppercase; }
+      font-weight: bold;}
+
       .breadcrumbs li:not(:last-child)::after {
         position: relative;
         margin: 0 0.75rem;
         opacity: 1;
         content: ">";
-        color: #cacaca; }
+        color: #cacaca;
+        font-weight: 900; }
     .breadcrumbs a {
       color: #1779ba; }
       .breadcrumbs a:hover {
