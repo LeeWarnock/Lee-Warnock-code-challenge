@@ -1,5 +1,7 @@
 # Lee-Warnock-code-challenge
 
+## Live at [https://leewarnock.github.io/Lee-Warnock-code-challenge/](https://leewarnock.github.io/Lee-Warnock-code-challenge/)
+
 
 This code challenge will test your skills on HTML, CSS and JavaScript. We have included a PSD mockup for you to work from. The font used in the PSD is included. Finish the project at your own pace.
 
